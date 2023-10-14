@@ -1,4 +1,4 @@
-# Gradient-Descent---Short-term-Optimal-Dispatch-of-Reservoirs
+# Gradient-Descent-Short-term-Optimal-Dispatch-of-Reservoirs
 Application of gradient descent algorithm to short-term optimal scheduling of reservoirs
 
 采用梯度下降算法进行多能互补系统短期优化调度，多能互补系统包括水电、风电、光伏，调度目标为日内负荷波动性最小
